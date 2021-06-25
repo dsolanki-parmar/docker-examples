@@ -1,0 +1,5 @@
+Use command "docker build -t hello-world ."
+docker images
+docker image history
+To run this u can use:
+docker run hello-world
